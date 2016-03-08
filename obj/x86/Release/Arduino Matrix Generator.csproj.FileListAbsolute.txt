@@ -1,0 +1,8 @@
+X:\ITA3\PROJEKT\Arduino Matrix Generator\Arduino Matrix Generator\bin\Release\Arduino Matrix Generator.exe
+X:\ITA3\PROJEKT\Arduino Matrix Generator\Arduino Matrix Generator\bin\Release\Arduino Matrix Generator.pdb
+X:\ITA3\PROJEKT\Arduino Matrix Generator\Arduino Matrix Generator\obj\x86\Release\Arduino_Matrix_Generator.Form1.resources
+X:\ITA3\PROJEKT\Arduino Matrix Generator\Arduino Matrix Generator\obj\x86\Release\Arduino_Matrix_Generator.NeuFenster.resources
+X:\ITA3\PROJEKT\Arduino Matrix Generator\Arduino Matrix Generator\obj\x86\Release\Arduino_Matrix_Generator.Properties.Resources.resources
+X:\ITA3\PROJEKT\Arduino Matrix Generator\Arduino Matrix Generator\obj\x86\Release\Arduino Matrix Generator.csproj.GenerateResource.Cache
+X:\ITA3\PROJEKT\Arduino Matrix Generator\Arduino Matrix Generator\obj\x86\Release\Arduino Matrix Generator.exe
+X:\ITA3\PROJEKT\Arduino Matrix Generator\Arduino Matrix Generator\obj\x86\Release\Arduino Matrix Generator.pdb
